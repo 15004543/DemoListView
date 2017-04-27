@@ -8,8 +8,7 @@
     <ImageView
         android:id="@+id/ivStar"
         android:layout_width="28dp"
-        android:layout_height="25dp"
-        app:srcCompat="@drawable/nostar" />
+        android:layout_height="25dp"/>
 
     <TextView
         android:id="@+id/tvFoodName"
