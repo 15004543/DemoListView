@@ -7,8 +7,8 @@
 
     <ImageView
         android:id="@+id/ivStar"
-        android:layout_width="38dp"
-        android:layout_height="35dp"
+        android:layout_width="28dp"
+        android:layout_height="25dp"
         app:srcCompat="@drawable/nostar" />
 
     <TextView
@@ -16,6 +16,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_weight="1"
+        android:textSize="20sp"
         android:text="TextView" />
 
 </LinearLayout>
